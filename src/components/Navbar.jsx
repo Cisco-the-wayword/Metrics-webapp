@@ -1,18 +1,30 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { ChevronLeft, Mic, Settings } from 'react-feather';
+import { useDispatch } from 'react-redux';
+import { NavLink } from 'react-router-dom';
+import { clearCoinDetail } from '../Redux/detail/detailSlice';
 
-const Navbar = () => (
-  <nav className="navBar">
-    <div className="navItems">
-      <ul className="navLinks">
-        <li><Link to="/">Home</Link></li>
-        <li><Link to="detail">Detail</Link></li>
-      </ul>
-    </div>
-    <div className="logoTitleContainer">
-      <h2 className="navTitle">data</h2>
-    </div>
-  </nav>
-);
+const Navbar = () => {
+  const dispatch = useDispatch();
+
+  const handleGoBack = () => {
+    dispatch(clearCoinDetail());
+  };
+
+  return (
+    <nav className="navBar">
+      <div className="navItems">
+        <NavLink to="/" onClick={handleGoBack}>
+          <ChevronLeft className="whiteColor" />
+        </NavLink>
+        <h1 className="whiteColor">Crypto Currencies</h1>
+        <ul className="navLinks">
+          <li><Mic className="whiteColor" /></li>
+          <li><Settings className="whiteColor" /></li>
+        </ul>
+      </div>
+    </nav>
+  );
+};
 
 export default Navbar;
