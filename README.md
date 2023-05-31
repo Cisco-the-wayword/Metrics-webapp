@@ -51,9 +51,12 @@ HTML, CSS, APIs, and React
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Demo
-[Demo link](https://crypto-metrics-ai44.onrender.com)
+[Demo link](https://crypto-metrics-o016.onrender.com)
 
 <!-- GETTING STARTED -->
+
+### Project Presentation
+[Presentation link](https://www.loom.com/share/3bca2fc353bf4a78b7665c885547f15c)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
