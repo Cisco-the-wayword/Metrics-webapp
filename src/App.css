@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: rgba(66, 135, 245, 1);
+  background-color: rgba(41, 128, 185, 1); /* Main color */
   padding: 0 1rem;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 .coinCard {
-  background-color: rgba(107, 206, 116, 1);
+  background-color: rgba(25, 111, 161, 1); /* Shade 1 */
 }
 
 .coinCard a {
@@ -68,9 +68,9 @@ body {
 .searchBtn {
   width: 13rem;
   height: 2rem;
-  background-color: rgba(107, 206, 116, 1);
+  background-color: rgba(25, 111, 161, 0.8); /* Shade 2 */
   color: #fff;
-  border: 1px solid rgba(61, 150, 81, 1);
+  border: 1px solid rgba(16, 72, 105, 1); /* Shade 3 */
 }
 
 .coinDetail {
@@ -82,7 +82,7 @@ body {
 }
 
 .bg-dark {
-  background-color: rgba(61, 150, 81, 1);
+  background-color: rgba(25, 111, 161, 0.8); /* Shade 2 */
   width: 100%;
   text-align: center;
   height: 3rem;
