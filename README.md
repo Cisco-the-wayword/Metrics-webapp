@@ -56,7 +56,7 @@ HTML, CSS, APIs, and React
 <!-- GETTING STARTED -->
 
 ### Project Presentation
-[Presentation link](https://www.loom.com/share/3bca2fc353bf4a78b7665c885547f15c)
+[Presentation link](https://www.loom.com/share/33a7791ad54f4b13a9168d1a9d378503)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -154,7 +154,8 @@ If you like this project, please star it and send us a message on LinkedIn.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for providing invaluable resources to study React.
+- I would like to thank Microverse for providing invaluable resources to study React.
+- I would also like to give credit to[Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
