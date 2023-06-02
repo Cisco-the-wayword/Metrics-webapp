@@ -13,7 +13,6 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [Project Presentation](#presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -51,7 +50,7 @@ HTML, CSS, APIs, and React
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Demo
-[Demo link](https://crypto-metrics-ai44.onrender.com)
+[Demo link](https://crypto-metrics-o016.onrender.com)
 
 <!-- GETTING STARTED -->
 
@@ -151,7 +150,8 @@ If you like this project, please star it and send us a message on LinkedIn.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for providing invaluable resources to study React.
+- I would like to thank Microverse for providing invaluable resources to study React.
+- I would also like to give credit to[Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
