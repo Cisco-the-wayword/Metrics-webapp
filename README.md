@@ -13,7 +13,6 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [Project Presentation](#presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -54,9 +53,6 @@ HTML, CSS, APIs, and React
 [Demo link](https://crypto-metrics-o016.onrender.com)
 
 <!-- GETTING STARTED -->
-
-### Project Presentation
-[Presentation link](https://www.loom.com/share/33a7791ad54f4b13a9168d1a9d378503)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
